@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 LAMBDA = 10#for poisson
 BOUND = np.sqrt(3)#for uniform
 
