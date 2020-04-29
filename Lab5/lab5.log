@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.3.7)  27 APR 2020 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.3.7)  29 APR 2020 16:42
 entering extended mode
-**./lab4.tex
-(lab4.tex
+**./lab5.tex
+(lab5.tex
 LaTeX2e <2019-10-01> patch level 3
 (C:\dowloads\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
@@ -1016,13 +1016,23 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 110.
 LaTeX Warning: Unused global option(s):
     [a4].
 
-(lab4.aux
+(lab5.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 1.
  (C:\dowloads\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-\openout1 = `lab4.aux'.
+)
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
+)
+\openout1 = `lab5.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 118.
 LaTeX Font Info:    ... okay on input line 118.
@@ -1041,8 +1051,7 @@ LaTeX Font Info:    ... okay on input line 118.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 118.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
 18.
-
-(C:\dowloads\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\dowloads\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 118.
@@ -1118,210 +1127,111 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 118.
 LaTeX Info: Redefining \pageref on input line 118.
 LaTeX Info: Redefining \nameref on input line 118.
- (lab4.out)
-(lab4.out)
+ (lab5.out)
+(lab5.out)
 \@outlinefile=\write4
-\openout4 = `lab4.out'.
+\openout4 = `lab5.out'.
 
  [1
 
-{C:/Users/РїРє/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (lab4.toc)
+{C:/Users/РїРє/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (lab5.toc)
 \tf@toc=\write5
-\openout5 = `lab4.toc'.
+\openout5 = `lab5.toc'.
 
- [2] (lab4.lof)
+ [2] (lab5.lof)
 \tf@lof=\write6
-\openout6 = `lab4.lof'.
+\openout6 = `lab5.lof'.
 
- [3] (lab4.lot)
+ [3] (lab5.lot)
 \tf@lot=\write7
-\openout7 = `lab4.lot'.
+\openout7 = `lab5.lot'.
 
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+ [4] [5]
+Overfull \hbox (1.40239pt too wide) in paragraph at lines 234--235
+[]\T2A/cmr/m/n/10 Кроме вы-бо-роч-но-го ко-эф-фи-ци-ен-та кор-ре-ля-ции Пир-со-
+на, су-ще-ству-ют и дру-гие оцен-
+ []
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 240.
+
+Missing character: There is no и in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+[6] [7] [8]
+<Normal0.png, id=161, 462.528pt x 346.896pt>
+File: Normal0.png Graphic file (type png)
+<use Normal0.png>
+Package pdftex.def Info: Normal0.png  used on input line 421.
+(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
+ [9 <./Normal0.png>]
+<Normal5.png, id=168, 462.528pt x 346.896pt>
+File: Normal5.png Graphic file (type png)
+<use Normal5.png>
+Package pdftex.def Info: Normal5.png  used on input line 426.
+(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
+ [10 <./Normal5.png>]
+<Normal9.png, id=174, 462.528pt x 346.896pt>
+File: Normal9.png Graphic file (type png)
+<use Normal9.png>
+Package pdftex.def Info: Normal9.png  used on input line 431.
+(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
+ [11 <./Normal9.png>]
+<NormalMix9.png, id=180, 462.528pt x 346.896pt>
+File: NormalMix9.png Graphic file (type png)
+<use NormalMix9.png>
+Package pdftex.def Info: NormalMix9.png  used on input line 436.
+(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--449
 
  []
 
 
-Overfull \hbox (50.15091pt too wide) in paragraph at lines 199--201
-[]\T2A/cmr/m/n/10 Статистическим ря-дом на-зы-ва-ет-ся по-сле-до-ва-тель-ность 
-раз-лич-ных эле-мен-тов выборки$\OML/cmm/m/it/10 z[]; :::; z[]$\T2A/cmr/m/n/10 
-,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 206--208
+Underfull \hbox (badness 10000) in paragraph at lines 457--458
 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 219--224
-
- []
-
-[6]
-<normalemp.png, id=173, 462.528pt x 346.896pt>
-File: normalemp.png Graphic file (type png)
-<use normalemp.png>
-Package pdftex.def Info: normalemp.png  used on input line 241.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [7 <./normalemp.png>]
-<cauchyemp.png, id=181, 462.528pt x 346.896pt>
-File: cauchyemp.png Graphic file (type png)
-<use cauchyemp.png>
-Package pdftex.def Info: cauchyemp.png  used on input line 246.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [8 <./cauchyemp.png>]
-<laplaceemp.png, id=187, 462.528pt x 346.896pt>
-File: laplaceemp.png Graphic file (type png)
-<use laplaceemp.png>
-Package pdftex.def Info: laplaceemp.png  used on input line 251.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [9 <./laplaceemp.png>]
-<poissonemp.png, id=193, 462.528pt x 346.896pt>
-File: poissonemp.png Graphic file (type png)
-<use poissonemp.png>
-Package pdftex.def Info: poissonemp.png  used on input line 256.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [10 <./poissonemp.png>]
-<uniformemp.png, id=199, 462.528pt x 346.896pt>
-File: uniformemp.png Graphic file (type png)
-<use uniformemp.png>
-Package pdftex.def Info: uniformemp.png  used on input line 261.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [11 <./uniformemp.png>]
-<normalker20.png, id=205, 462.528pt x 346.896pt>
-File: normalker20.png Graphic file (type png)
-<use normalker20.png>
-Package pdftex.def Info: normalker20.png  used on input line 271.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [12 <./normalker20.png>]
-<normalker60.png, id=211, 462.528pt x 346.896pt>
-File: normalker60.png Graphic file (type png)
-<use normalker60.png>
-Package pdftex.def Info: normalker60.png  used on input line 276.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [13 <./normalker60.png>]
-<normalker100.png, id=218, 462.528pt x 346.896pt>
-File: normalker100.png Graphic file (type png)
-<use normalker100.png>
-Package pdftex.def Info: normalker100.png  used on input line 281.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [14 <./normalker100.png>]
-<cauchyker20.png, id=224, 462.528pt x 346.896pt>
-File: cauchyker20.png Graphic file (type png)
-<use cauchyker20.png>
-Package pdftex.def Info: cauchyker20.png  used on input line 286.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [15 <./cauchyker20.png>]
-<cauchyker60.png, id=230, 462.528pt x 346.896pt>
-File: cauchyker60.png Graphic file (type png)
-<use cauchyker60.png>
-Package pdftex.def Info: cauchyker60.png  used on input line 291.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [16 <./cauchyker60.png>]
-<cauchyker100.png, id=236, 462.528pt x 346.896pt>
-File: cauchyker100.png Graphic file (type png)
-<use cauchyker100.png>
-Package pdftex.def Info: cauchyker100.png  used on input line 296.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [17 <./cauchyker100.png>]
-<laplaceker20.png, id=242, 462.528pt x 346.896pt>
-File: laplaceker20.png Graphic file (type png)
-<use laplaceker20.png>
-Package pdftex.def Info: laplaceker20.png  used on input line 301.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [18 <./laplaceker20.png>]
-<laplaceker60.png, id=248, 462.528pt x 346.896pt>
-File: laplaceker60.png Graphic file (type png)
-<use laplaceker60.png>
-Package pdftex.def Info: laplaceker60.png  used on input line 306.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [19 <./laplaceker60.png>]
-<laplaceker100.png, id=255, 462.528pt x 346.896pt>
-File: laplaceker100.png Graphic file (type png)
-<use laplaceker100.png>
-Package pdftex.def Info: laplaceker100.png  used on input line 311.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [20 <./laplaceker100.png>]
-<poissonker20.png, id=261, 462.528pt x 346.896pt>
-File: poissonker20.png Graphic file (type png)
-<use poissonker20.png>
-Package pdftex.def Info: poissonker20.png  used on input line 316.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [21 <./poissonker20.png>]
-<poissonker60.png, id=267, 462.528pt x 346.896pt>
-File: poissonker60.png Graphic file (type png)
-<use poissonker60.png>
-Package pdftex.def Info: poissonker60.png  used on input line 321.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [22 <./poissonker60.png>]
-<poissonker100.png, id=273, 462.528pt x 346.896pt>
-File: poissonker100.png Graphic file (type png)
-<use poissonker100.png>
-Package pdftex.def Info: poissonker100.png  used on input line 326.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [23 <./poissonker100.png>]
-<uniformker60.png, id=279, 462.528pt x 346.896pt>
-File: uniformker60.png Graphic file (type png)
-<use uniformker60.png>
-Package pdftex.def Info: uniformker60.png  used on input line 331.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [24 <./uniformker60.png>]
-<uniformker20.png, id=285, 462.528pt x 346.896pt>
-File: uniformker20.png Graphic file (type png)
-<use uniformker20.png>
-Package pdftex.def Info: uniformker20.png  used on input line 336.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [25 <./uniformker20.png>]
-<uniformker100.png, id=292, 462.528pt x 346.896pt>
-File: uniformker100.png Graphic file (type png)
-<use uniformker100.png>
-Package pdftex.def Info: uniformker100.png  used on input line 341.
-(pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
- [26 <./uniformker100.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+[12 <./NormalMix9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 459--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 
  []
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 475.
+[13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 475.
+ (lab5.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 475.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 475.
+Package rerunfilecheck Info: File `lab5.out' has not changed.
+(rerunfilecheck)             Checksum: 65BC96F092745979E007A845A34B7641;4749.
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
- []
+LaTeX Warning: There were multiply-defined labels.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
-[27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
- (lab4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
-Package rerunfilecheck Info: File `lab4.out' has not changed.
-(rerunfilecheck)             Checksum: B6C9D436FCA6124E59AE620D5DDDE005;3023.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 475.
  ) 
 Here is how much of TeX's memory you used:
- 17371 strings out of 492484
- 229414 string characters out of 3135133
- 331691 words of memory out of 3000000
- 21299 multiletter control sequences out of 15000+200000
+ 17252 strings out of 492484
+ 227365 string characters out of 3135133
+ 337809 words of memory out of 3000000
+ 21221 multiletter control sequences out of 15000+200000
  32710 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,45p,3235b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/dowloads/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/dowloads/MiKTe
-X/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{C:/dowloads/MiKTeX/fonts/enc/dvips/mn
-symbol/MnSymbolF.enc} <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/l
+ 39i,9n,45p,3235b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/dowloads/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{C:/dowloads/MiKTe
+X/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/dowloads/MiKTeX/fonts/enc/dvips/mn
+symbol/MnSymbolE.enc} <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/l
 h/lh-t2a/dpi600\labx1200.pk>{C:/dowloads/MiKTeX/fonts/enc/dvips/mnsymbol/MnSymb
-olE.enc} <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi6
+olD.enc} <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi6
 00\labx1440.pk> <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t
 2a/dpi600\labx1000.pk> <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
 lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\РїРє\AppData\Local\MiKTeX\2.9\fonts/pk/
@@ -1332,16 +1242,15 @@ nts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\РїРє\AppData\Local\MiKTeX
 a\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk> <C:\Users\РїРє
 \AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1440.pk><C:/dowl
 oads/MiKTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/dowloads/MiKTeX/font
-s/type1/public/mnsymbol/MnSymbol5.pfb><C:/dowloads/MiKTeX/fonts/type1/public/mn
-symbol/MnSymbol7.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/dowloads/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/dowloads/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr12.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/dowl
-oads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on lab4.pdf (27 pages, 1100604 bytes).
+s/type1/public/mnsymbol/MnSymbol7.pfb><C:/dowloads/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.p
+fb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/dowloads/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/dowloads/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr5.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on lab5.pdf (13 pages, 379747 bytes).
 PDF statistics:
- 710 PDF objects out of 1000 (max. 8388607)
- 64 named destinations out of 1000 (max. 500000)
- 229 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 610 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 157 words of extra memory for PDF output out of 10000 (max. 10000000)
 
