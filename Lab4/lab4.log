@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.3.7)  27 APR 2020 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.3.7)  5 MAY 2020 14:46
 entering extended mode
 **./lab4.tex
 (lab4.tex
@@ -1280,34 +1280,44 @@ File: uniformker100.png Graphic file (type png)
 Package pdftex.def Info: uniformker100.png  used on input line 341.
 (pdftex.def)             Requested size: 395.58878pt x 296.70502pt.
  [26 <./uniformker100.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 371.
 [27]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 371.
  (lab4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 371.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 371.
 Package rerunfilecheck Info: File `lab4.out' has not changed.
 (rerunfilecheck)             Checksum: B6C9D436FCA6124E59AE620D5DDDE005;3023.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 371.
  ) 
 Here is how much of TeX's memory you used:
  17371 strings out of 492484
@@ -1339,7 +1349,7 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/dowloads/MiKTeX/fonts/type1/
 public/amsfonts/cm/cmr10.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr12.pfb><C:/dowloads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/dowl
 oads/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on lab4.pdf (27 pages, 1100604 bytes).
+Output written on lab4.pdf (27 pages, 1101039 bytes).
 PDF statistics:
  710 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)

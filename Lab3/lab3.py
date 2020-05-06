@@ -118,6 +118,9 @@ pos_char_name = [
 def e(z):
     return numpy.mean(z)
 
+def d(z):
+    return numpy.var(z)
+
 
 f = open('out1.txt', 'w')
 std = sys.stdout
@@ -141,6 +144,7 @@ def research(dist_type):
 
         print("%-10s;" % ('n = %i' % num), end="")
         print("%-12f;" % e(eject), end="")
+        print("%-12f;" % d(eject), end="")
         print()
 
     plt.figure(dist_type)
