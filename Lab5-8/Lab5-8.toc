@@ -1,0 +1,35 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Постановка задачи}{6}{section.1}%
+\contentsline {section}{\numberline {2}Теория}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Двумерное нормальное распределение}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Корреляционный момент(ковариация) и коэффициент корреляции}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Выборочные коэффициенты корреляции}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Выборочный коэффициент корреляции Пирсона}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Выборочный квадрантный коэффициент корреляции}{7}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Выборочный коэффициент ранговой корреляции Спирмена}{7}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Простая линейная регрессия}{8}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Модель простой линейной регрессии}{8}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Метод наименьших квадратов}{8}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Расчётные формулы для МНК-оценок}{9}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}Метод наименьших модулей}{9}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Метод максимального правдоподобия}{9}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Хи-квадрат}{10}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Доверительные интервалы для параметров нормального распредееления}{10}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Доверительные интервалы для математического ожидания m и среднего квадратического отклонения $\sigma $ произвольного распределения при большом объёме выборки. Асимптотический подход}{11}{subsection.2.10}%
+\contentsline {section}{\numberline {3}Реализация}{11}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Выборочные коэффициенты корреляции}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Эллипсы рассеивания}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Графики линейной регрессии}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Выборка без возмущений}{16}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Выборка с возмущниями}{16}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Метод максимального правдоподобия и $\chi ^2$}{17}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Доверительные интервалы}{18}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Обсуждение}{18}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Выборочные коэффициенты корреляции и эллипсы рассеивания}{18}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Стравнение с теоретическими данными}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}МНК и МНМ}{19}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Критерий Пирсона}{19}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Доверительные интервалы}{19}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Литература}{20}{section.6}%
+\contentsline {section}{\numberline {7}Приложения}{20}{section.7}%

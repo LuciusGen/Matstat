@@ -1,0 +1,36 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Постановка задачи}{7}{section.1}%
+\contentsline {section}{\numberline {2}Теория}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Распределения}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Гистограмма}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Определение}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Графическое описание}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Использование}{8}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Выборочные числовые характеристики}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Боксплот Тьюки}{8}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Определение}{8}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Описание}{8}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Использование}{9}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Эмпирическая функция распределения}{9}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Статистический ряд}{9}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Определение}{9}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Описание}{9}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}Оценки плотности вероятности}{9}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Определение}{9}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}Ядерные оценки}{10}{subsubsection.2.6.2}%
+\contentsline {section}{\numberline {3}Реализация}{10}{section.3}%
+\contentsline {section}{\numberline {4}Результаты}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Гистограмма и график плотности распределения}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Характеристики полложения и рассеяния}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Боксплот Тьюки}{20}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Эмпирическая функция распределений}{26}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Ядерные оценки плотности распределений}{31}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Обсуждение}{46}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Гистограмма и график распределения}{46}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Характеристики положения и рассеяния}{46}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Доля и теоретическая вероятность выбросов}{46}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Анализ данных}{46}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Сравнение с теоретическими значениями}{46}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.4}Эмпирическая функция и ядерные оценки плотности распределения}{46}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Литература}{46}{section.6}%
+\contentsline {section}{\numberline {7}Приложения}{47}{section.7}%

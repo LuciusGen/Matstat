@@ -62,6 +62,8 @@ plt.title("Оригинал")
 print("\t\t\tOriginal")
 
 x, y = generate(l, r, h)
+y_tmp = a * x + b
+
 print("%12s:\t a = %lf, b = %lf" % ("Model sample", a, b))
 plt.plot(x, a * x + b, 'b', label='Модель')
 
@@ -70,11 +72,17 @@ plt.scatter(x, y)
 m, c = mnk(x, y)
 print("%12s:\ta = %lf, b = %lf" % ("МНК", m, c))
 plt.plot(x, m*x + c, 'r', label='МНаимКвадратов')
+p1 = sum(pow((m*x + c - y), 2))
+y1_tmp = m*x + c
 
 m, c, k = mnm(x, y, np.array([2, 2]))
 plt.plot(m, c, 'g', label='МНаимМодулей')
 print("%12s:\ta = %lf, b = %lf" % ("МНМ", k[0], k[1]))
 plt.legend()
+
+p2 = sum(pow((c - y), 2))
+y2_tmp = c
+
 
 print("\n")
 plt.subplot(122)
@@ -99,4 +107,12 @@ print("%12s:\ta = %lf, b = %lf" % ("МНМ", k[0], k[1]))
 plt.legend()
 plt.savefig("Graph")
 plt.close()
+sys.stdout.close()
+
+sys.stdout = open("metr.txt", "w")
+print(p1)
+print(p2)
+print(y_tmp)
+print(y1_tmp)
+print(y2_tmp)
 sys.stdout.close()
